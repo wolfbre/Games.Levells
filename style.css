@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+    background-color:black
+}
+
+a:link, a:visited {
+  background-color: #000;
+  color: white;
+  padding: 14px 25px;
+  text-align: center; 
+  text-decoration: none;
+  display: inline-block;
+}
+
+body { font-size: large; }
+	div {
+	margin: 10px;
+	padding: 10px;
+	border: 1px solid black;
+		}
